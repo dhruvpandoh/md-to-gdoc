@@ -17,7 +17,7 @@ It supports:
 .
 ├── Markdown_to_Google_Doc.ipynb   # main Colab notebook
 ├── src/
-│   └── md_to_gdoc.py              # (optional) extracted logic (same as notebook)
+│   └── md_to_gdoc.py              
 ├── requirements.txt
 └── README.md
 ```
